@@ -117,16 +117,6 @@ Ravi is a boy. He loves reading books and playing cricket.
 - **Level 5 (Evaluate):** Do you agree reading makes Ravi a better student? Why/why not?
 - **Level 6 (Create):** Can you design a story where Ravi’s love for cricket changes his life?
 
----
-
-## 📸 Screenshots
-
-(You can add screenshots here for submission)
-
-![Homepage](static/assets/img/bg.png)  
-![Results](static/assets/img/icon.png)  
-
----
 
 ## 📌 Future Enhancements
 
@@ -138,5 +128,5 @@ Ravi is a boy. He loves reading books and playing cricket.
 
 ## 👨‍💻 Author
 
-Developed by [Your Name]  
+Developed by Sonu Kumar Pandit  
 Based on Bloom’s Taxonomy framework for educational Q&A
